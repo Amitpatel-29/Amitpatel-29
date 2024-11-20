@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Amitpatel-29
 - 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Data Science and Machine Learning 
+- 💞️ I’m looking to collaborate on predictive model building
+- 📫 Reach me thorugh amitpatelfass@gmail.com
+- 😄 He/him/his
+
 
 <!---
 Amitpatel-29/Amitpatel-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
