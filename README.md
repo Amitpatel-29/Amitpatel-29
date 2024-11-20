@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science and Machine Learning 
 - 💞️ I’m looking to collaborate on predictive model building
 - 📫 Reach me thorugh amitpatelfass@gmail.com
-- 😄 He/him/his
+
 
 
 <!---
